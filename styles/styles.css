@@ -175,10 +175,9 @@ p{
     justify-content: center;
     align-items: center;
     width: 264px;
-    min-height: 64px;
+    min-height: 112px;
     background-color: var(--color-shade);
-    padding-left: 102px;
-    padding-top: 24px;
+    
     margin-bottom: 8px;
     
 }
@@ -245,7 +244,7 @@ p{
     text-align: center;
     padding-left: 16px;
     padding-right: 16px;
-    background-color: var(--page-background-colorde);
+    background-color: white;
     
 }
 .section-team-img{
@@ -411,7 +410,11 @@ p{
     margin-right: 692px;
     
 }
-
+.icon-link{
+    width: 100%;
+    height: 100%;
+    line-height: 1;
+}
 
 .footer-icon-list{
     display: flex;
